@@ -1,0 +1,4 @@
+To connect using the mongo shell:
+mongo ds145019.mlab.com:45019/heroku_xtqsz5d8 -u <dbuser> -p <dbpassword>
+
+mongodb://<dbuser>:<dbpassword>@ds145019.mlab.com:45019/heroku_xtqsz5d8
